@@ -1,0 +1,133 @@
+div.cabecalho{
+	height: 100px;
+	width: 100%;
+	background-color: #0092DC;
+}
+div.imgs-cabecalho{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+div.menu{
+	background-color: #000000;
+	height: 50px;
+}
+div.menu2{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.main{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px dotted #d6d6d6;
+}
+div.noticia1{
+	background-color: #CCCCCC;
+	width: 420px;
+	height: 300px;
+	border-radius: 15px;
+	margin: 10px;
+	float: left;
+}
+div.noticias{
+	width: 530px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: right;
+}
+div.caixa{
+	width: 306.6px;
+	margin: 10px;
+	background-color: #CCCCCC;
+	height: 450px;
+	float: left;
+	border-radius: 15px;
+}
+div.rodape{
+	background-color: #0092DC;
+	height: 200px;
+}
+div.txt-rodape{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	font-family: "Arial";
+}
+p.txt-menu{
+	line-height: 50px;
+	color: #ffffff;
+	word-spacing: 20px;
+	font-size: 20px;
+}
+p.data-noticia{
+	margin-left: 10px;
+	font-size: 13px;
+	color: #848484;
+	margin-bottom: 5px;
+}
+p.titulo-noticia1{
+	color: #0092DC;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 23px;
+	font-weight: bold;
+	line-height: 30px;
+}
+p.titulo-noticias{
+	color: #0092DC;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 25px;
+}
+p.titulo-caixa{
+	margin-top: 20px;
+	color: #0092DC;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+p.txt-caixa{
+	margin: 10px;
+	font-size: 18px;
+	line-height: 23px;
+}
+p.concordia{
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+p.endereco{
+	color: #ffffff;
+	line-height: 25px;
+}
+
+img.img-logo{
+	position: absolute;
+	top: 10px;
+	left: 5px;
+}
+img.img-qualidade{
+	position: absolute;
+	right: 5px;
+	top: 8px;
+}
+img.publicidade{
+	border-radius: 5px;
+	margin-top: 10px;
+}
+img.noticia-principal{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}

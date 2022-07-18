@@ -1,0 +1,91 @@
+body{
+	margin: 0px;
+}
+div.main{
+	margin-left: auto;
+	margin-right: auto;
+	width: 980px;
+	background-color: purple;
+	height: 550px;
+}
+div.laranja{
+	height: 90px;
+	background-color: orange;
+}
+div.preto{
+	height: 30px;
+	background-color: black;
+}
+div.div1{
+	height: 400px;
+	width: 326.6666px;
+	float: left;
+}
+div.div2{
+	height: 400px;
+	width: 426.3334px;
+	float: left;
+}
+div.div3{
+	height: 400px;
+	width: 227px;
+	float: left;
+	background-color: lime;
+}
+div.div1cinza{
+	height: 160px;
+	background-color: lightgray;
+}
+div.div1amarelo{
+	width: 163.3333px;
+	height: 100px;
+	background-color: yellow;
+	float: left;
+}
+div.div1verde{
+	width: 163.3333px;
+	height: 100px;
+	background-color: lime;
+	float: left;
+}
+div.div1rosa{
+	width: 163.3333px;
+	height: 100px;
+	background-color: magenta;
+	float: left;
+}
+div.div1laranja{
+	width: 163.3333px;
+	height: 100px;
+	background-color: orange;
+	float: left;
+}
+div.div1preto{
+	height: 70px;
+	background-color: black;
+	clear: both;
+}
+div.div2azul{
+	height: 225px;
+	background-color: blue;
+}
+div.div2preto{
+	height: 90px;
+	background-color: black;
+}
+div.div2vermelho{
+	height: 85px;
+	background-color: red;
+}
+div.azul{
+	height: 120px;
+	width: 735px;
+	background-color: blue;
+	float: left;
+}
+div.rosa{
+	height: 120px;
+	width: 245px;
+	background-color: magenta;
+	float: left;
+}

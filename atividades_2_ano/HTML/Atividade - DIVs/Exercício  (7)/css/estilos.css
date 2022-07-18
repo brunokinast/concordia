@@ -1,0 +1,72 @@
+div.main{
+	background-color: lightgray;
+	width: 980px;
+	height: 680px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.logo{
+	width: 320px;
+	height: 80px;
+	background-color: blue;
+	margin-top: 10px;
+	margin-left:10px;
+	float: left;
+}
+div.banner{
+	background-color: red;
+	width: 620px;
+	height: 80px;
+	margin-top: 10px;
+	margin-left:10px;
+	margin-right: 10px;
+	float: right;
+}
+div.leftnav{
+	width: 200px;
+	height: 558px;
+	float: left;
+}
+div.ln{
+	margin-left: 10px;
+	width: 200px;
+	height: 558px;
+	margin-top: 10px;
+	background-color: brown;
+	float: left
+}
+div.meio{
+	margin-left: 10px;
+	width: 550px;
+	height: 544px;
+	float: left;
+}
+div.chamada{
+	height: 230px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: yellow;
+}
+div.chamada2{
+	width:253px;
+	height:318px; 
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: purple;
+	float: left;
+}
+div.chamada3{
+	width:270px;
+	height:318px; 
+	margin-top: 10px;
+	background-color: magenta;
+	float: right;
+}
+div.chamdest{
+	width: 200px;
+	height: 558px;
+	margin-top: 10px;
+	background-color: green;
+	float: right;
+	margin-right: 10px;
+}

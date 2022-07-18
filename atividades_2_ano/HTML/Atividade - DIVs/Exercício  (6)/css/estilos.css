@@ -1,0 +1,80 @@
+div.main{
+	margin-right: auto;
+	margin-left: auto;
+	width: 980px;
+	height: 800px;
+	border-style: solid;
+}
+div.logo{
+	float: left;
+	height: 80px;
+	width: 230px;
+	background-color: black;
+}
+div.promo1{
+	float: left;
+	height: 80px;
+	width: 750px;
+	background-color: green;
+}
+div.search{
+	clear: both;
+	width: 980px;
+	height: 30px;
+	background-color: pink;
+}
+div.promo2{
+	width: 980px;
+	height: 30px;
+	background-color: magenta;
+}
+div.productsegmentation{
+	height: 250px;
+	background-color: yellow;
+}
+div.div1{
+	float: left;
+}
+div.div2{
+	float: left;
+}
+div.div3{
+	float: left;
+}
+div.mainnavigation{
+	background-color: blue;
+	width: 200px;
+	height: 320px;
+}
+div.promo6{
+	height: 50px;
+	background-color: brown;
+}
+div.legal{
+	height: 40px;
+	background-color: black;
+	clear: both;
+}
+div.newsreleases{
+	width: 580px;
+	height: 200px;
+	background-color: orange;
+}
+div.customercare{
+	width: 580px;
+	height: 170px;
+	background-color: magenta;
+}
+div.promo3{
+	width: 200px;
+	height: 100px;
+	background-color: brown;
+}
+div.promo4{
+	height: 100px;
+	background-color: lightblue;
+}
+div.promo5{
+	background-color: red;
+	height: 170px;
+}

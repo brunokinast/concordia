@@ -1,0 +1,39 @@
+div.principal{
+	width: 980px;
+	height: 600px;
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.caixaverde{
+	height:120px;
+	background-color: green;
+}
+
+div.caixaamarela{
+	width: 326.6666px;
+	height: 400px;
+	background-color: yellow;
+	float:left;
+}
+
+div.caixaazul{
+	width: 326.6666px;
+	height: 400px;
+	background-color: blue;
+	float:left;
+}
+
+div.caixavermelha{
+	width: 326.6666px;
+	height: 400px;
+	background-color: red;
+	float:right;
+}
+
+div.caixamarrom{
+	height: 80px;
+	background-color: brown;
+	clear: both;
+}

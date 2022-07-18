@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Signin Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="css/signin.css" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+    <form class="form-signin" method="POST" action="cadastrousuario.php">
+      <h1 class="h3 mb-3 font-weight-normal">Cadastrar Usuário</h1>
+      <label for="text" class="sr-only">Login</label>
+      <input type="text" id="login" name="login" class="form-control" placeholder="Login" required autofocus>
+      <label for="inputPassword" class="sr-only">Senha</label>
+      <input type="password" id="senha" name="senha" class="form-control" placeholder="Senha" required>
+      <div class="checkbox mb-3">
+      </div>
+      <input class="btn btn-lg btn-primary btn-block" type="submit" value="Cadastrar Usuário">
+      <p class="mt-5 mb-3 text-muted">Bruno Corp &copy; 2018</p>
+    </form>
+    <form class="form-signin" method="POST" action="cadastroaluno.php">
+      <h1 class="h3 mb-3 font-weight-normal">Cadastrar Aluno</h1>
+      <label for="inputEmail" class="sr-only">Nome Aluno</label>
+      <input type="text" id="nome_aluno" name="nome_aluno" class="form-control" placeholder="Nome Aluno" required autofocus>
+      <label for="text" class="sr-only">CEP</label>
+      <input type="text" id="cep" name="cep" class="form-control" placeholder="CEP" required>
+      <label for="text" class="sr-only">Nº Casa</label>
+      <input type="text" id="numero_casa" name="numero_casa" class="form-control" placeholder="Nº Casa" required>
+      <label for="text" class="sr-only">Email</label>
+      <input type="email" id="email" name="email" class="form-control" placeholder="E-mail" required>
+      <label for="text" class="sr-only">Telefone</label>
+      <input type="text" id="telefone" name="telefone" class="form-control" placeholder="Telefone" required>
+      <div class="checkbox mb-3">
+      </div>
+      <input class="btn btn-lg btn-primary btn-block" type="submit" value="Cadastrar Aluno">
+      <p class="mt-5 mb-3 text-muted">Bruno Corp &copy; 2018</p>
+    </form>
+  </body>
+</html>

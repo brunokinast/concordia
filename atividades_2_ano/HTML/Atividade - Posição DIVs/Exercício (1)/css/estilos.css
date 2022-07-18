@@ -1,0 +1,77 @@
+div.main{
+	width: 980px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+	position: relative;
+}
+div.cinza{
+	height: 100px;
+	background-color: lightgray;
+	position: relative;
+}
+div.laranja{
+	float: left;
+	width: 100px;
+	height: 360px;
+	background-color: orange;
+}
+div.verde{
+	float: left;
+	width: 880px;
+	height: 40px;
+	background-color: green;
+}
+div.vermelho{
+	float: left;
+	width: 880px;
+	height: 320px;
+	background-color: red;
+}
+div.amarelo{
+	width: 980px;
+	height: 40px;
+	background-color: yellow;
+	clear: both;
+}
+div.cinzacaixa1{
+	height: 60px;
+	width: 100px;
+	background-color: black;
+	position: absolute;
+	left: 30px;
+	top: 20px;
+}
+div.cinzacaixa2{
+	height: 30px;
+	width: 300px;
+	background-color: black;
+	position: absolute;
+	right: 20px;
+	top: 10px;
+}
+div.cinzacaixa3{
+	height: 30px;
+	width: 230px;
+	background-color: black;
+	position: absolute;
+	right: 20px;
+	bottom: -15px;
+}
+div.amarelocaixa1{
+	height: 65px;
+	width: 50px;
+	background-color: black;
+	position: absolute;
+	left: 25px;
+	bottom: 20px;
+}
+div.amarelocaixa2{
+	height: 65px;
+	width: 65px;
+	background-color: black;
+	position: absolute;
+	right: 25px;
+	bottom: 20px;
+}
